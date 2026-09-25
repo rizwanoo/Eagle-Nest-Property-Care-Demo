@@ -1,0 +1,8 @@
+{
+  "name": "Eagle Nest Property Care Demo",
+  "description": "Quality yard cleanup, lawn care, small repairs, seasonal projects, and general property maintenance in Milton, South Burlington, Essex Junction, Williston, and Chittenden County, VT.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
