@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <!-- Outer Circles -->
+  <circle cx="250" cy="250" r="240" fill="#0B2545" stroke="#C8102E" stroke-width="12" />
+  <circle cx="250" cy="250" r="224" fill="#FFFFFF" stroke="#0B2545" stroke-width="6" />
+
+  <!-- Mountain Silhouette -->
+  <path d="M70 240 L160 170 L210 210 L250 160 L310 215 L360 175 L430 240 Z" fill="#133966" />
+  <polygon points="160,170 145,190 155,185 160,195 168,185 175,192" fill="#FFFFFF" />
+  <polygon points="250,160 235,185 245,180 250,190 258,180 265,188" fill="#FFFFFF" />
+  <polygon points="360,175 348,195 356,188 360,198 368,188 374,195" fill="#FFFFFF" />
+
+  <!-- Craftsman House -->
+  <path d="M250 145 L155 235 L345 235 Z" fill="#0B2545" stroke="#FFFFFF" stroke-width="8" />
+  <rect x="300" y="155" width="22" height="40" fill="#0B2545" stroke="#FFFFFF" stroke-width="4" />
+  <rect x="236" y="180" width="28" height="28" fill="#FFFFFF" />
+  <line x1="250" y1="180" x2="250" y2="208" stroke="#0B2545" stroke-width="4" />
+  <line x1="236" y1="194" x2="264" y2="194" stroke="#0B2545" stroke-width="4" />
+
+  <!-- Eagle Wings -->
+  <path d="M250 110 C210 40, 120 40, 40 70 C80 100, 110 140, 160 170 C200 135, 230 115, 250 110 Z" fill="#0B2545" />
+  <path d="M50 85 C95 105, 125 130, 175 160 C150 140, 100 110, 50 85 Z" fill="#C8102E" />
+  <path d="M65 105 C110 125, 140 145, 190 170 C165 155, 115 130, 65 105 Z" fill="#FFFFFF" />
+  <path d="M80 125 C125 145, 155 160, 205 180 C180 168, 130 148, 80 125 Z" fill="#C8102E" />
+
+  <path d="M250 110 C290 40, 380 40, 460 70 C420 100, 390 140, 340 170 C300 135, 270 115, 250 110 Z" fill="#0B2545" />
+  <path d="M450 85 C405 105, 375 130, 325 160 C350 140, 400 110, 450 85 Z" fill="#C8102E" />
+  <path d="M435 105 C390 125, 360 145, 310 170 C335 155, 385 130, 435 105 Z" fill="#FFFFFF" />
+  <path d="M420 125 C375 145, 345 160, 295 180 C320 168, 370 148, 420 125 Z" fill="#C8102E" />
+
+  <!-- Eagle Head & Beak -->
+  <path d="M250 45 C230 45, 218 60, 215 80 C215 105, 230 125, 250 130 C270 125, 285 105, 285 80 C282 60, 270 45, 250 45 Z" fill="#FFFFFF" stroke="#0B2545" stroke-width="4" />
+  <circle cx="272" cy="74" r="5" fill="#0B2545" />
+  <circle cx="273" cy="73" r="2" fill="#FBBF24" />
+  <path d="M275 75 C295 76, 310 85, 305 102 C295 100, 285 96, 275 95 Z" fill="#F59E0B" stroke="#0B2545" stroke-width="3" />
+
+  <!-- Banner Bar -->
+  <path d="M20 240 L480 240 L460 300 L250 315 L40 300 Z" fill="#0B2545" stroke="#FFFFFF" stroke-width="6" />
+  <path d="M38 300 L250 315 L462 300 L452 335 L250 348 L48 335 Z" fill="#C8102E" />
+  <text x="250" y="285" text-anchor="middle" fill="#FFFFFF" font-family="'Cinzel', 'Outfit', sans-serif" font-weight="900" font-size="46" letter-spacing="2">EAGLE'S NEST</text>
+  <text x="250" y="332" text-anchor="middle" fill="#FFFFFF" font-family="'Outfit', sans-serif" font-weight="800" font-size="20" letter-spacing="4">PROPERTY CARE</text>
+
+  <!-- Star & Patriot Stripes -->
+  <g transform="translate(250, 440) scale(1.2)">
+    <polygon points="0,-9 3,-3 9,-3 4,2 6,8 0,4 -6,8 -4,2 -9,-3 -3,-3" fill="#0B2545" />
+    <line x1="-70" y1="-3" x2="-20" y2="-3" stroke="#C8102E" stroke-width="5" stroke-linecap="round" />
+    <line x1="20" y1="-3" x2="70" y2="-3" stroke="#C8102E" stroke-width="5" stroke-linecap="round" />
+  </g>
+</svg>
